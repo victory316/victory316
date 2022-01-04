@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- Currently working on Supergene co.
+- Currently working on <b>Supergene co.</b>
 - 4 years of Android development experience
-- Continuing study on clean architechure and 'shiny' codes
+- Continuing study on clean architechure and <b>'shiny'</b> codes
 
 <!--
 **victory316/victory316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
