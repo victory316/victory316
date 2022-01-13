@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Currently working on <b>Supergene co.</b>
-- 4 years of Android development experience
+- 4 years of Android native app development
 - Continuing study on clean architechure and <b>'comfortable'</b> codes
 
 ### I'm Used to 
