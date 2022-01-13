@@ -2,7 +2,13 @@
 
 - Currently working on <b>Supergene co.</b>
 - 4 years of Android development experience
-- Continuing study on clean architechure and <b>'shiny'</b> codes
+- Continuing study on clean architechure and <b>'comfortable'</b> codes
+
+### I'm Used to 
+	Kotlin, Android, Unit-Test, Rx, App performance review & improvement
+
+### Currently studying on
+	Coroutine, Jetpack-Compose, Motion-Layout, Paging3, WorkManager.. so on
 
 <!--
 **victory316/victory316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
