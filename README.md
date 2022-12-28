@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - Currently working on <b>Supergene co.</b>
-- 4 years of Android native app development
+- 5 years of Android native app development
 - Continuing study on clean architechure and <b>'comfortable'</b> codes
 
 ### I'm Used to 
-	Kotlin, Android, Unit-Test, Rx, App performance review & improvement
+	Kotlin, Android, Unit-Test, Rx, App performance review & improvement, App structure improvement 
 
 ### Currently studying on
 	Coroutine, Jetpack-Compose, Motion-Layout, Paging3, WorkManager.. so on
