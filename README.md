@@ -3,7 +3,7 @@
 - Eager to learn
 - Enjoys Refactoring, loves productive discussion
 - Seeking easier and readable codes and structure
-- Persue much better end user experience
+- Always persue better end user experience
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,bash,reactivex,figma,githubactions&theme=dark)](https://skillicons.dev)
 
