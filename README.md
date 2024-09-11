@@ -1,7 +1,7 @@
 ### I'm in Android World, since 2019 👋
 
 - Eager to learn
-- Enjoys Refactoring, love to discuss
+- Enjoys Refactoring, loves productive discussion
 - Seeking easier and readable codes and structure
 - Persue much better end user experience
 
